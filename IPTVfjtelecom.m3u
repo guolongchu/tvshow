@@ -71,6 +71,12 @@ http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226124/1/index.m3u8?f
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 #EXTINF:0,CCTV央视精品
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+#EXTINF:0,CHC高清电影
+http://111.8.150.30:9999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:0,CHC家庭电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:0,CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:9,中国教育-1(高清)
 http://27.148.240.189/PLTV/88888888/224/3221226912/1.m3u8
 #EXTINF:0,中国教育-2
@@ -273,12 +279,6 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m
 http://117.148.187.47/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:0,百视通4K(2)
 http://112.17.40.137/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:0,CHC高清电影
-http://111.8.150.30:9999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:0,CHC家庭电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:0,CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:0,NOW直播
 http://pullhls3948069e.live.126.net/live/hknowzb_MTYyNDAwMzY4Ng/playlist.m3u8
 #EXTINF:0,NOW新闻
