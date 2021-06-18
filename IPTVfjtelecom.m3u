@@ -267,6 +267,8 @@ http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:0,百视通4K
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
+#EXTINF:0,花园4K
+http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 #EXTINF:0,NOW直播
 http://pullhls3948069e.live.126.net/live/hknowzb_MTYyNDAwMzY4Ng/playlist.m3u8
 #EXTINF:0,NOW新闻
