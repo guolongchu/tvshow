@@ -34,7 +34,7 @@ http://27.148.240.189/PLTV/88888888/224/3221226775/1.m3u8
 #EXTINF:0,CCTV-17(高清)
 http://27.148.240.189/PLTV/88888888/224/3221227055/1.m3u8
 #EXTINF:0,CHC高清电影
-http://58.200.190.80/hls/chchd.m3u8
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:0,CHC家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:0,CHC动作电影
