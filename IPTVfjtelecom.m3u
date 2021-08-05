@@ -320,6 +320,8 @@ http://39.134.176.149/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212307
 #EXTINF:0,纯享4K
 http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:0,爱上4K
+rtsp://27.148.237.40:554/live/ch18122110190633826391.sdp?playtype=1&FccMediaIP=239.61.3.3&FccMediaPort=9536&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18122110190633826391&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAslddbHHsLkaLWhzQszhHKmW7Mf4ONZY2%2BgUP5sL%2FbZsV286D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+#EXTINF:0,爱上4K
 http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:0,芒果4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
