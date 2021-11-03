@@ -86,7 +86,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:0,CHC家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:0,CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_live.m3u8
 #EXTINF:9,中国教育-1(高清)
 http://27.148.240.181/PLTV/88888888/224/3221226912/1.m3u8
 #EXTINF:0,中国教育-2
@@ -137,6 +137,8 @@ http://27.148.240.181/PLTV/88888888/224/3221226865/1.m3u8
 http://27.148.240.181/PLTV/88888888/224/3221226900/1.m3u8
 #EXTINF:0,黑龙江卫视(高清)
 http://27.148.240.181/PLTV/88888888/224/3221226720/1.m3u8
+#EXTINF:0,广西卫视HD
+http://womlive.cloud.wo.cn/tvlive/100021/otpzod_otpzod,100021_hls_pull_live.m3u8
 #EXTINF:0,广西卫视
 http://27.148.240.181/PLTV/88888888/224/3221226834/1.m3u8
 #EXTINF:0,陕西卫视
