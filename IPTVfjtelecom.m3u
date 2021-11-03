@@ -57,6 +57,8 @@ http://27.148.240.181/PLTV/88888888/224/3221226775/1.m3u8
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:0,CCTV-17农业农村HD
 http://27.148.240.181/PLTV/88888888/224/3221227055/1.m3u8
+#EXTINF:0,CCTV-4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:0,CCTV世界地理
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 #EXTINF:0,CCTV第一剧场
@@ -249,8 +251,6 @@ http://27.148.240.181/PLTV/88888888/224/3221227037/1.m3u8
 http://27.148.240.181/PLTV/88888888/224/3221226826/1.m3u
 #EXTINF:0,陶瓷(高清)
 http://27.148.240.181/PLTV/88888888/224/3221226964/1.m3u8
-#EXTINF:0,CCTV-4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:0,北京4K超清
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:0,欢笑剧场4K
