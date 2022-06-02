@@ -57,8 +57,10 @@ http://27.148.240.181/PLTV/88888888/224/3221226775/1.m3u8
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:0,CCTV-17农业农村HD
 http://27.148.240.181/PLTV/88888888/224/3221227055/1.m3u8
-#EXTINF:0,CCTV-4K
+#EXTINF:0,CCTV-4K(1080P)
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:0,CCTV-4K
+https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:9,中国教育-1(高清)
 http://27.148.240.181/PLTV/88888888/224/3221226912/1.m3u8
 #EXTINF:0,中国教育-2
