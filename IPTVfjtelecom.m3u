@@ -58,8 +58,6 @@ http://27.148.240.181/PLTV/88888888/224/3221226762/1.m3u8
 #EXTINF:0,CCTV-15音乐HD
 http://27.148.240.181/PLTV/88888888/224/3221226775/1.m3u8
 #EXTINF:0,CCTV-16奥运4K
-http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:0,CCTV-16奥运4K
 http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 #EXTINF:0,CCTV-17农业农村HD
 http://27.148.240.181/PLTV/88888888/224/3221227055/1.m3u8
