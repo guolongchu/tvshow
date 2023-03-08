@@ -223,7 +223,5 @@ http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.44:9782
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.45:9788
 #EXTINF:0,CGTN德语
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.43:9776
-#EXTINF:0,CCTV1
-http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.60:9878
-#EXTINF:0,福建综合
-http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.1:8000
+#EXTINF:0,爱上4K
+http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.5.164:1025
