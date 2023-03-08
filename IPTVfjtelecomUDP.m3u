@@ -28,7 +28,7 @@ http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.55:9848
 #EXTINF:0,厦门2套
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.56:9854
 #EXTINF:0,CCTV-1
-http://guo2.greenpowerpackaging.cn:8686/rtp/239.961.3.61:9884
+http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.61:9884
 #EXTINF:0,CCTV-2
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.174:9032
 #EXTINF:0,CCTV-3
@@ -77,8 +77,8 @@ http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.30:8174
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.29:8168
 #EXTINF:0,河北卫视
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.57:8336
-#EXTINF:0,
-http://guo2.greenpowerpackaging.cn:8686/rtp/239:61.2.33:8192
+#EXTINF:0,广东卫视
+http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.33:8192
 #EXTINF:0,山东卫视
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.119:8708
 #EXTINF:0,湖北卫视
