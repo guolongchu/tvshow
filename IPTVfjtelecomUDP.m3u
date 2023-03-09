@@ -143,6 +143,8 @@ http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.145:8858
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.75:8444
 #EXTINF:0,东方财经
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.76:8450
+#EXTINF:0,第一财经
+http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.52:9830
 #EXTINF:0,动漫秀场
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.148:8876
 #EXTINF:0,哈哈炫动
@@ -220,7 +222,7 @@ http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.15:9608
 #EXTINF:0,CHC动作电影
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.16:9616
 #EXTINF:0,爱上4K
-http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.5.164:1025
+http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.3.3:9536
 #EXTINF:0,快乐购物
 http://guo2.greenpowerpackaging.cn:8686/rtp/239.61.2.169:9002
 #EXTINF:0,央广购物
