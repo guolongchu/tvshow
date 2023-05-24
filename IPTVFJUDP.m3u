@@ -111,12 +111,12 @@ http://guo.greenpowerpackaging.cn:8686/rtp/239.61.5.190:1025
 http://guo.greenpowerpackaging.cn:8686/rtp/239.61.5.191:1025
 #EXTINF:0,甘肃卫视
 http://guo.greenpowerpackaging.cn:8686/rtp/239.61.5.111:1025
+#EXTINF:0,青海卫视
+http://guo.greenpowerpackaging.cn:8686/rtp/239.61.4.62:1025
 #EXTINF:0,山西卫视
 http://guo.greenpowerpackaging.cn:8686/rtp/239.61.5.110:1025
 #EXTINF:0,陕西卫视
 http://guo.greenpowerpackaging.cn:8686/rtp/239.61.4.40:1025
-#EXTINF:0,青海卫视
-http://guo.greenpowerpackaging.cn:8686/rtp/239.61.4.62:1025
 #EXTINF:0,宁夏卫视
 http://guo.greenpowerpackaging.cn:8686/rtp/239.61.4.58:1025
 #EXTINF:0,内蒙古卫视
