@@ -86,7 +86,7 @@ http://27.148.240.181/PLTV/88888888/224/3221227075/1.m3u8
 #EXTINF:0,东南卫视
 http://27.148.240.181/PLTV/88888888/224/3221226754/1.m3u8
 #EXTINF:0,东方卫视
-rtsp://27.148.237.40:554/live/ch15102717162086242155.sdp?playtype=1&FccMediaIP=239.61.2.28&FccMediaPort=8162&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch15102717162086242155&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldTx4Q5OIe1%2B3aWj%2FQrsKQ4QAW%2Fw3jWWmMjnKEXn1O5sm6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=8000&distype=0
+http://27.148.240.181/PLTV/88888888/224/3221227281/1.m3u8
 #EXTINF:0,北京卫视
 http://27.148.240.181/PLTV/88888888/224/3221226764/1.m3u8
 #EXTINF:0,湖南卫视
