@@ -160,9 +160,9 @@ http://27.148.240.181/PLTV/88888888/224/3221226823/1.m3u8
 #EXTINF:0,三沙卫视
 http://27.148.240.181/PLTV/88888888/224/3221227072/1.m3u8
 #EXTINF:0,凤凰中文
-https://live.goodiptv.club/api/sxg.php?id=test1_4000
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:0,凤凰资讯
-https://live.goodiptv.club/api/sxg.php?id=test2_4000
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:0,凤凰资讯
 http://27.148.240.181/PLTV/88888888/224/3221226976/1.m3u8
 #EXTINF:0,香港卫视
