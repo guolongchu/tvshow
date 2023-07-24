@@ -5,3 +5,6 @@
 
 EPG
 https://epg.sec.st/epg.php
+最全EPG
+
+https://epg.112114.xyz/pp.xml
