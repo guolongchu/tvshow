@@ -291,3 +291,9 @@ http://111.40.196.37:443/PLTV/88888888/224/3221225650/1.m3u8
 http://111.40.196.37:443/PLTV/88888888/224/3221225680/1.m3u8
 #EXTINF:0,BTV纪实科教8K
 http://159.75.85.63:6798
+#EXTINF:0,SiTV欢笑剧场4K
+http://china.733240.com/cqyx.php?id=hxjc_4K
+#EXTINF:0,CCTV4K
+http://china.733240.com/cqyx.php?id=CCTV4K
+#EXTINF:0,CCTV164K
+http://china.733240.com/cqyx.php?id=CCTV16_4k
