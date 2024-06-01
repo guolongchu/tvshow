@@ -144,7 +144,7 @@ http://27.148.240.181/PLTV/88888888/224/3221226980/1.m3u8
 http://27.148.240.181/PLTV/88888888/224/3221226929/1.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",凤凰香港
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
 rtsp://27.148.240.181/PLTV/88888888/224/3221227170/70545651.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ETbenDiDEr6laGnwSzQ2wtg%7E9iJWFlQkWe51HyqxKo6hcdm4tFJr56vlqM1bHS_WGBcUzI-KaF2Kz2nUXV23j0_2jN01HJbZwGH7RviqCenZc1-C1uTt0epoh-MneJ-WxP4%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220926184459%2C2083064%2C117.28.157.7%2C20220926184459%2Curn%3AHuawei%3AliveTV%3AXTV70545650%2C208306420220926184459%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHhS0T9bATxsTEzAPo1dStIqEw3MDEtxcmt7bf_6X_GMDi6aD7iYhFfBuvJbNA1PS18W5Bt7K4yy0XaselzLnas2qRjgS1zlLWTN0Dw7rMYonh01jULj75QPCdAvE4NGm-Bloxw2p9LvJcSSlElm2kYuNyrSC2M2EviIXvBgjozr5Ogn4CRWQD2BZqNNDhv33yLsHNTX7PAz0j1gAAAA
