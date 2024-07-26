@@ -286,6 +286,8 @@ http://27.148.240.181/PLTV/88888888/224/3221227333/1.m3u8
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影频道",爱上4K
 rtsp://27.148.221.1:554/live/ch18122110190633826391.sdp?FccMediaIP=239.61.3.3&FccMediaPort=9536&vcdnid=001&mediaid=ch18122110190633826391&AuthInfo=LuUjQEnFN2dblFXPJKm%2FXnVgmpJw5AgjRAil9nH%2BR51ilkzWpUTUYYEfQv%2BdvqUSNC5yQUJ%2BjwR5np7ffCdHWg%3D%3D
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="电影频道",纯享4K
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
