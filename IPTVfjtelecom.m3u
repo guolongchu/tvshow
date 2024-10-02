@@ -25,7 +25,7 @@ http://27.148.240.181/PLTV/88888888/224/3221226748/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="福建频道",厦门卫视
 http://27.148.240.181/PLTV/88888888/224/3221226744/1.m3u8
 #EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门1.png" group-title="福建频道",厦门一套
-rtsp://27.148.240.189/PLTV/88888888/224/3221227122/66931161.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQz19ET3hU-M9sasRcYVmxg%7EPP035ej_ErOiuBQGbTcTbsVCzWtl0f3igiwZvLC_mQYwiDquPDWaY80F_LWFUEowQg9jTsIz3sONKUg3ohm7po1U__txexXnfmbnrZA_evE%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220602115923%2C2083064%2C120.41.22.107%2C20220602115923%2CUmai%3ACHAN%2F5884077%40BESTV.STA.SMG%2C208306420220602115923%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLRiivTVcYExNTF6BbM7YDEgaoLZj490JlNzPnnsydHWg8H-W4EDGPbzXJmGkg6sZWTWZD96p8xDmPkoLHieAiY_UmnQhaeQhZtQxPdPuyihW6T6dRGt9wS_BdHHFvuzDfHO2YYb0_j7I0iTKRp3FaCDZv1xp8vxL2Al9OgwWH5jK1QZANkEdmQffQooIB_-2Dd3VmbfIDXQVKHNYAAAA
+http://192.168.1.1:8888/rtp/239.61.5.99:1025
 #EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门2.png" group-title="福建频道",厦门二套
 rtsp://27.148.240.189/PLTV/88888888/224/3221227183/66927922.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEzoeUmrD-7J4AVftgD-jaw%7EPP035ej_ErOiuBQGbTcTbsVCzWtl0f3igiwZvLC_mQYwiDquPDWaY80F_LWFUEowQg9jTsIz3sONKUg3ohm7po1U__txexXnfmbnrZA_evE%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220602115923%2C2083064%2C120.41.22.107%2C20220602115923%2CUmai%3ACHAN%2F5884079%40BESTV.STA.SMG%2C208306420220602115923%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLRiivTVcYExNTF6BbM7YDEgaoLZj490JlNzPnnsydHWg8H-W4EDGPbzXJmGkg6sZWTWZD96p8xDmPkoLHieAiY_UmnQhaeQhZtQxPdPuyihW6T6dRGt9wS_BdHHFvuzDfHO2YYb0_j7I0iTKRp3FaCDZv1xp8vxL2Al9OgwWH5jK1QZANkEdmQffQooIB_-2Dd3VmbfIDXQVKHNYAAAA
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
@@ -187,113 +187,71 @@ http://27.148.240.181/PLTV/88888888/224/3221226950/1.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://27.148.240.181/PLTV/88888888/224/3221226999/1.m3u8
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字频道",茶频道
-rtsp://27.148.235.40:554/live/ch22083017183582533184.sdp?playtype=1&FccMediaIP=239.61.3.59&FccMediaPort=9872&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch22083017183582533184&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIyy0RdUtV5T%2BfCUMMTF%2FqTloU5RBleXUX7mv0aKlBM6rWEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.167:1025
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="数字频道",先锋乒羽
-rtsp://27.148.235.40:554/live/ch22091415575673264280.sdp?playtype=1&FccMediaIP=239.61.3.17&FccMediaPort=9622&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch22091415575673264280&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIyyywsAgFjshIcq25qQ557fyOt9begMYtBRyoKlg5b%2F1SEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.168:1025
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 http://27.148.240.181/PLTV/88888888/224/3221226890/1.m3u8
 #EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字频道",河南梨园
-rtsp://27.148.240.181/PLTV/88888888/224/3221227243/70545572.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EFGiOEyMrJXOhxclro_pelQ%7E9iJWFlQkWe51HyqxKo6hcdm4tFJr56vlqM1bHS_WGBcUzI-KaF2Kz2nUXV23j0_2jN01HJbZwGH7RviqCenZc1-C1uTt0epoh-MneJ-WxP4%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220926184459%2C2083064%2C117.28.157.7%2C20220926184459%2Curn%3AHuawei%3AliveTV%3AXTV70545571%2C208306420220926184459%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHhS0T9bATxsTEzAPo1dStIqEw3MDEtxcmt7bf_6X_GMDi6aD7iYhFfBuvJbNA1PS18W5Bt7K4yy0XaselzLnas2qRjgS1zlLWTN0Dw7rMYonh01jULj75QPCdAvE4NGm-Bloxw2p9LvJcSSlElm2kYuNyrSC2M2EviIXvBgjozr5Ogn4CRWQD2BZqNNDhv33yLsHNTX7PAz0j1gAAAA
+http://192.168.1.1:8888/rtp/239.61.4.170:1025
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字频道",文物宝库
-rtsp://27.148.240.181/PLTV/88888888/224/3221227174/70545665.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ESqKf_5HznCEiEep3Hlpc7w%7E9iJWFlQkWe51HyqxKo6hcdm4tFJr56vlqM1bHS_WGBcUzI-KaF2Kz2nUXV23j0_2jN01HJbZwGH7RviqCenZc1-C1uTt0epoh-MneJ-WxP4%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220926184459%2C2083064%2C117.28.157.7%2C20220926184459%2Curn%3AHuawei%3AliveTV%3AXTV70545664%2C208306420220926184459%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHhS0T9bATxsTEzAPo1dStIqEw3MDEtxcmt7bf_6X_GMDi6aD7iYhFfBuvJbNA1PS18W5Bt7K4yy0XaselzLnas2qRjgS1zlLWTN0Dw7rMYonh01jULj75QPCdAvE4NGm-Bloxw2p9LvJcSSlElm2kYuNyrSC2M2EviIXvBgjozr5Ogn4CRWQD2BZqNNDhv33yLsHNTX7PAz0j1gAAAA
+http://192.168.1.1:8888/rtp/239.61.4.171:1025
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="数字频道",武术世界
-rtsp://27.148.240.181/PLTV/88888888/224/3221227256/70545597.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIWoy-A-MI65L_r6Hf7jKKA%7E9iJWFlQkWe51HyqxKo6hcdm4tFJr56vlqM1bHS_WGBcUzI-KaF2Kz2nUXV23j0_2jN01HJbZwGH7RviqCenZc1-C1uTt0epoh-MneJ-WxP4%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220926184459%2C2083064%2C117.28.157.7%2C20220926184459%2Curn%3AHuawei%3AliveTV%3AXTV70545596%2C208306420220926184459%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHhS0T9bATxsTEzAPo1dStIqEw3MDEtxcmt7bf_6X_GMDi6aD7iYhFfBuvJbNA1PS18W5Bt7K4yy0XaselzLnas2qRjgS1zlLWTN0Dw7rMYonh01jULj75QPCdAvE4NGm-Bloxw2p9LvJcSSlElm2kYuNyrSC2M2EviIXvBgjozr5Ogn4CRWQD2BZqNNDhv33yLsHNTX7PAz0j1gAAAA
+http://192.168.1.1:8888/rtp/239.61.4.172:1025
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="其他频道",新动漫
-rtsp://27.148.240.181/PLTV/88888888/224/3221227229/70545738.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Es3X9Smlu_DK_P_0Mj-iCNA%7E9iJWFlQkWe51HyqxKo6hcdm4tFJr56vlqM1bHS_WGBcUzI-KaF2Kz2nUXV23j0_2jN01HJbZwGH7RviqCenZc1-C1uTt0epoh-MneJ-WxP4%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220926184459%2C2083064%2C117.28.157.7%2C20220926184459%2Curn%3AHuawei%3AliveTV%3AXTV70545737%2C208306420220926184459%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHhS0T9bATxsTEzAPo1dStIqEw3MDEtxcmt7bf_6X_GMDi6aD7iYhFfBuvJbNA1PS18W5Bt7K4yy0XaselzLnas2qRjgS1zlLWTN0Dw7rMYonh01jULj75QPCdAvE4NGm-Bloxw2p9LvJcSSlElm2kYuNyrSC2M2EviIXvBgjozr5Ogn4CRWQD2BZqNNDhv33yLsHNTX7PAz0j1gAAAA
+http://192.168.1.1:8888/rtp/239.61.4.173:1025
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="其他频道",中学生
-rtsp://27.148.235.40:554/live/ch23013115204696560987.sdp?playtype=1&FccMediaIP=239.61.3.73&FccMediaPort=9956&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23013115204696560987&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIyz4fDX%2BQfRezFAySeBbux2O78joIdnAZsOX9jwedg5zrEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.188:1025
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="其他频道",发现之旅
-rtsp://27.148.235.40:554/live/ch23013116081088855400.sdp?playtype=1&FccMediaIP=239.61.3.74&FccMediaPort=9962&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23013116081088855400&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy13yb1WF5WaR9YmYsMeaenNEwU1av1DUX9aJvBa1j%2B%2FMEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.189:1025
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="其他频道",中华特产
-rtsp://27.148.235.40:554/live/ch23011621094688160747.sdp?playtype=1&FccMediaIP=239.61.3.72&FccMediaPort=9950&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011621094688160747&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIyx2OhGqFBAk778I448tRWB43znXDogjUOEMFFsYSMXacEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.177:1025
 #EXTINF:-1 tvg-id="车迷频道" tvg-name="车迷频道" tvg-logo="https://live.fanmingming.com/tv/车迷.png" group-title="其他频道",车迷频道
-rtsp://27.148.235.40:554/live/ch23011618382381235288.sdp?playtype=1&FccMediaIP=239.61.3.64&FccMediaPort=9902&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011618382381235288&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy7IyzXqfwHgVR%2BYlT4EvFmn%2FdvMI8XIo0iyOEtVshul9EPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.178:1025
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="其他频道",优优宝贝
-rtsp://27.148.235.40:554/live/ch23011620420932000427.sdp?playtype=1&FccMediaIP=239.61.3.70&FccMediaPort=9938&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011620420932000427&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIyzTmvA6gmaRkAdgn8ELQi9W6ARnwNEFQNOcj8Pwk3618EPGX64kEJAEvSEnQe%2BiNvQ%3D
+http://192.168.1.1:8888/rtp/239.61.4.179:1025
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="其他频道",环球旅游
-rtsp://27.148.235.40:554/live/ch23011620421138055200.sdp?playtype=1&FccMediaIP=239.61.3.66&FccMediaPort=9914&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011620421138055200&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIyzTmvA6gmaRkAdgn8ELQi9XMkfNoeLyI0N5IfuO3YXXEEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.180:1025
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="其他频道",生态环境
-rtsp://27.148.235.40:554/live/ch23011620183325317543.sdp?playtype=1&FccMediaIP=239.61.3.68&FccMediaPort=9926&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011620183325317543&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy6vKmeBO687tZNB7sLIHly%2FmT%2FX%2F8VLYOwpC67hToTh%2BEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.181:1025
 #EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png" group-title="其他频道",百姓健康
-rtsp://27.148.235.40:554/live/ch23011618361727906139.sdp?playtype=1&FccMediaIP=239.61.3.62&FccMediaPort=9890&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011618361727906139&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy7IyzXqfwHgVR%2BYlT4EvFmkqQtX7yVmp7OkBTx%2Bu5rx2EPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.182:1025
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="其他频道",四海钓鱼
-rtsp://27.148.235.40:554/live/ch23011620315277465261.sdp?playtype=1&FccMediaIP=239.61.3.69&FccMediaPort=9932&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011620315277465261&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIyzxcExxgDto8HU85YiRPpCWMhnDe72ZNWxxBS1ieGiNLEPGX64kEJAEvSEnQe%2BiNvQ%3D
+http://192.168.1.1:8888/rtp/239.61.4.183:1025
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="其他频道",家庭理财
-rtsp://27.148.235.40:554/live/ch23011619340696703803.sdp?playtype=1&FccMediaIP=239.61.3.67&FccMediaPort=9920&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011619340696703803&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy139sECLrOshlCft4aIgVj2blluo%2F0w1Au%2FxjR%2FjvXVtEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.185:1025
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="其他频道",财富天下
-rtsp://27.148.235.40:554/live/ch23011618373496091095.sdp?playtype=1&FccMediaIP=239.61.3.63&FccMediaPort=9896&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011618373496091095&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy7IyzXqfwHgVR%2BYlT4EvFmkcC0W9aZ9AXI4hBWT78E%2FwEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
-#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="其他频道",证券服务 
-rtsp://27.148.235.40:554/live/ch23011620572379839314.sdp?playtype=1&FccMediaIP=239.61.3.71&FccMediaPort=9944&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23011620572379839314&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy3911jYGku40NoGteGESEIcO0Qe1XVOr1iLE%2FEXqhcw0EPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.186:1025
+#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="其他频道",证券服务
+http://192.168.1.1:8888/rtp/239.61.4.187:1025
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="其他频道",书画频道
-rtsp://27.148.235.40:554/live/ch23101117041365170817.sdp?playtype=1&FccMediaIP=239.61.3.97&FccMediaPort=10100&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23101117041365170817&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy2TruFsUG1O%2Fwc5OAaQtsgJTYNCmgvM4kN%2F9AD4egkeZEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.199:1025
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="其他频道",老故事
-rtsp://27.148.235.40:554/live/ch23101117043574518040.sdp?playtype=1&FccMediaIP=239.61.3.98&FccMediaPort=10106&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch23101117043574518040&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy2TruFsUG1O%2Fwc5OAaQtsgJ6kwR5NYwrgvDfzbu1T%2F2VEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.4.200:1025
 #EXTINF:-1 tvg-id="福州新闻" tvg-name="福州新闻" group-title="地方频道",福州新闻
-rtsp://27.148.235.40:554/live/ch18021018575987660580.sdp?playtype=1&FccMediaIP=239.61.2.212&FccMediaPort=9260&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18021018575987660580&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy1G9KD%2F0xP9xLe7yrZ5%2FeTSQR4qV49xf6AkAYhernNqsEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.97:1025
 #EXTINF:-1 tvg-id="漳州新闻" tvg-name="漳州新闻" group-title="地方频道",漳州新闻
-rtsp://27.148.235.40:554/live/ch18021018563878531243.sdp?playtype=1&FccMediaIP=239.61.2.164&FccMediaPort=8972&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18021018563878531243&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy1G9KD%2F0xP9xLe7yrZ5%2FeTR6m9Ac7FFkfYj2RU%2BqXmbjEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.91:1025
 #EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" group-title="地方频道",泉州新闻
-rtsp://27.148.235.40:554/live/ch18020116435220856291.sdp?playtype=1&FccMediaIP=239.61.2.193&FccMediaPort=9146&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18020116435220856291&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy8I5c4Hwp75kqv3ywuxT6EY0rygEiUYXR%2BtyC88w4a%2FXEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.98:1025
 #EXTINF:-1 tvg-id="三明新闻" tvg-name="三明新闻" group-title="地方频道",三明新闻
-rtsp://27.148.235.40:554/live/ch18021018570726044306.sdp?playtype=1&FccMediaIP=239.61.2.208&FccMediaPort=9236&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18021018570726044306&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy1G9KD%2F0xP9xLe7yrZ5%2FeTS69CQ%2FnBWgTHOdrOj1iD5MEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.93:1025
 #EXTINF:-1 tvg-id="莆田新闻" tvg-name="莆田新闻" group-title="地方频道",莆田新闻
-rtsp://27.148.235.40:554/live/ch18021018571856751097.sdp?playtype=1&FccMediaIP=239.61.2.209&FccMediaPort=9242&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18021018571856751097&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy1G9KD%2F0xP9xLe7yrZ5%2FeTRtJBDJOkNzCxc9WCCFFq%2FUEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.94:1025
 #EXTINF:-1 tvg-id="南平新闻" tvg-name="南平新闻" group-title="地方频道",南平新闻
-rtsp://27.148.235.40:554/live/ch18021018565597819147.sdp?playtype=1&FccMediaIP=239.61.2.207&FccMediaPort=9230&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18021018565597819147&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy1G9KD%2F0xP9xLe7yrZ5%2FeTQdE5OFUE4HLvu9vzAIlbnKEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.92:1025
 #EXTINF:-1 tvg-id="龙岩新闻" tvg-name="龙岩新闻" group-title="地方频道",龙岩新闻
-rtsp://27.148.235.40:554/live/ch18021018573041536970.sdp?playtype=1&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18021018573041536970&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy1G9KD%2F0xP9xLe7yrZ5%2FeTQDmcHBtdLwdIlmKGk%2FOAlzEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.95:1025
 #EXTINF:-1 tvg-id="宁德新闻" tvg-name="宁德新闻" group-title="地方频道",宁德新闻
-rtsp://27.148.235.40:554/live/ch18021018574362353141.sdp?playtype=1&FccMediaIP=239.61.2.211&FccMediaPort=9254&boid=001&backupagent=27.148.235.40:554&clienttype=1&time=20240727120938+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922750094554&mediaid=ch18021018574362353141&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=0010049900608930165050016BDEA33C&nodelevel=3&profilecode=&AuthInfo=dEyCdZ7YkndIMN1p6YuIy1G9KD%2F0xP9xLe7yrZ5%2FeTTZOGYPXqZtSGpdVnfrIEaIEPGX64kEJAEvSEnQe%2BiNvQ%3D%3D
+http://192.168.1.1:8888/rtp/239.61.5.96:1025
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
 http://27.148.240.181/PLTV/88888888/224/3221226861/1.m3u8
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海外语
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" group-title="湖北频道",湖北综合
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" group-title="湖北频道",湖北影视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" group-title="湖北频道",湖北教育
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" group-title="湖北频道",湖北生活
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-#EXTINF:-1 tvg-id="湖北公共" tvg-name="湖北公共" group-title="湖北频道",湖北公共
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" group-title="湖北频道",湖北经视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" group-title="湖北频道",湖北垄上
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
-#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",CCTV兵器科技
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGKB9zm%2BIxepVqZYZm7RAv244Kkb0RUYfm4%2FqM8nid95yfI6je%2Fgd5aFLyZ9USd3KbA
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",CCTV风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
-#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGLY7Qr44mlU8Mm7hAKppcofYcqtkgnrIU1veEPNSLwHTPQxqGjPgZkOj3N28h2Dcwo
-#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",CCTV世界地理
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
-#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",CCTV央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 http://27.148.240.181/PLTV/88888888/224/3221227333/1.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影频道",爱上4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+http://192.168.1.1:8888/rtp/239.61.5.164:1025
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="电影频道",纯享4K
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="求索系列",求索科学
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="电影频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="电影频道",黑莓动画
