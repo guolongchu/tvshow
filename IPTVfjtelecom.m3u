@@ -212,8 +212,6 @@ http://192.168.1.1:8888/rtp/239.61.4.179:1025
 http://192.168.1.1:8888/rtp/239.61.4.180:1025
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="其他频道",生态环境
 http://192.168.1.1:8888/rtp/239.61.4.181:1025
-#EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png" group-title="其他频道",百姓健康
-http://192.168.1.1:8888/rtp/239.61.4.182:1025
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="其他频道",四海钓鱼
 http://192.168.1.1:8888/rtp/239.61.4.183:1025
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="其他频道",家庭理财
