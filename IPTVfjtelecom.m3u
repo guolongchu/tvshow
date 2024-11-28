@@ -151,7 +151,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 #EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",北京纪实
-http://[2409:8087:74f0:22::6]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000515
+http://192.168.1.1:8888/rtp/239.61.3.103:10148
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字频道",卡酷动画
 http://27.148.240.181/PLTV/88888888/224/3221226916/1.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
@@ -229,7 +229,7 @@ http://192.168.1.1:8888/rtp/239.61.4.200:1025
 #EXTINF:-1 tvg-id="福州新闻" tvg-name="福州新闻" group-title="地方频道",福州新闻
 http://192.168.1.1:8888/rtp/239.61.5.97:1025
 #EXTINF:-1 tvg-id="漳州新闻" tvg-name="漳州新闻" group-title="地方频道",漳州新闻
-http://192.168.1.1:8888/rtp/239.61.5.91:1025
+http://192.168.1.1:8888/rtp/239.61.2.91:1025
 #EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" group-title="地方频道",泉州新闻
 http://192.168.1.1:8888/rtp/239.61.5.98:1025
 #EXTINF:-1 tvg-id="三明新闻" tvg-name="三明新闻" group-title="地方频道",三明新闻
@@ -242,6 +242,12 @@ http://192.168.1.1:8888/rtp/239.61.5.92:1025
 http://192.168.1.1:8888/rtp/239.61.5.95:1025
 #EXTINF:-1 tvg-id="宁德新闻" tvg-name="宁德新闻" group-title="地方频道",宁德新闻
 http://192.168.1.1:8888/rtp/239.61.5.96:1025
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" group-title="其他频道",中华美食
+http://192.168.1.1:8888/rtp/239.61.3.107:10172
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" group-title="其他频道",国学
+http://192.168.1.1:8888/rtp/239.61.3.105:10160
+#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" group-title="其他频道",陶瓷
+http://192.168.1.1:8888/rtp/239.61.3.109:10184
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
 http://27.148.240.181/PLTV/88888888/224/3221226861/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
