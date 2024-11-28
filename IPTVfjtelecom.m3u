@@ -226,6 +226,14 @@ http://192.168.1.1:8888/rtp/239.61.4.187:1025
 http://192.168.1.1:8888/rtp/239.61.4.199:1025
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="其他频道",老故事
 http://192.168.1.1:8888/rtp/239.61.4.200:1025
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" group-title="其他频道",睛彩青少
+http://192.168.1.1:8888/rtp/239.61.3.111:10196
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="其他频道",睛彩竞技
+http://192.168.1.1:8888/rtp/239.61.3.112:10202
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="其他频道",睛彩篮球
+http://192.168.1.1:8888/rtp/239.61.3.113:10208
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="其他频道",睛彩广场舞
+http://192.168.1.1:8888/rtp/239.61.3.114:10214
 #EXTINF:-1 tvg-id="福州新闻" tvg-name="福州新闻" group-title="地方频道",福州新闻
 http://192.168.1.1:8888/rtp/239.61.5.97:1025
 #EXTINF:-1 tvg-id="漳州新闻" tvg-name="漳州新闻" group-title="地方频道",漳州新闻
@@ -250,6 +258,8 @@ http://192.168.1.1:8888/rtp/239.61.3.105:10160
 http://192.168.1.1:8888/rtp/239.61.3.109:10184
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
 http://27.148.240.181/PLTV/88888888/224/3221226861/1.m3u8
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其他频道",中国交通
+http://192.168.1.1:8888/rtp/239.61.3.104:10154
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 http://27.148.240.181/PLTV/88888888/224/3221227333/1.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影频道",爱上4K
