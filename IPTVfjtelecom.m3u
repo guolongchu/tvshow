@@ -3,7 +3,7 @@
 #EXT-X-APTV-TYPE local
 
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建频道",福建综合
-http://192.168.1.1:8888/rtp/239.61.2.132:8708
+http://192.168.1.1:8888/rtp/239.61.3.4:9542
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建频道",福建新闻
 http://192.168.1.1:8888/rtp/239.61.2.4:8018
 #EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建频道",福建公共
