@@ -9,7 +9,7 @@ http://192.168.1.1:8888/rtp/239.61.2.4:8018
 #EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建频道",福建公共
 http://192.168.1.1:8888/rtp/239.61.2.3:8012
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建频道",福建电视剧
-http://192.168.1.1:8888/rtp/239.61.2.132:8708
+http://192.168.1.1:8888/rtp/239.61.2.5:8024
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建频道",福建旅游
 http://192.168.1.1:8888/rtp/239.61.2.6:8030
 #EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建频道",福建经济
