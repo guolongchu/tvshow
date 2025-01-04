@@ -206,6 +206,14 @@ http://192.168.2.1:8888/rtp/239.61.3.112:10202
 http://192.168.2.1:8888/rtp/239.61.3.113:10208
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="其他频道",睛彩广场舞
 http://192.168.2.1:8888/rtp/239.61.3.114:10214
+#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" group-title="其他频道",中华美食
+http://192.168.2.1:8888/rtp/239.61.3.107:10172
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" group-title="其他频道",环球奇观
+http://192.168.2.1:8888/rtp/239.61.3.115:10220
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
+http://192.168.2.1:8888/rtp/239.61.2.64:8378
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其他频道",中国交通
+http://192.168.2.1:8888/rtp/239.61.3.104:10154
 #EXTINF:-1 tvg-id="福州新闻" tvg-name="福州新闻" group-title="地方频道",福州新闻
 http://192.168.2.1:8888/rtp/239.61.2.212:9260
 #EXTINF:-1 tvg-id="漳州新闻" tvg-name="漳州新闻" group-title="地方频道",漳州新闻
@@ -222,18 +230,6 @@ http://192.168.2.1:8888/rtp/239.61.2.207:9230
 http://192.168.2.1:8888/rtp/239.61.2.210:1025
 #EXTINF:-1 tvg-id="宁德新闻" tvg-name="宁德新闻" group-title="地方频道",宁德新闻
 http://192.168.2.1:8888/rtp/239.61.5.96:9248
-#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" group-title="其他频道",中华美食
-http://192.168.2.1:8888/rtp/239.61.3.107:10172
-#EXTINF:-1 tvg-id="国学" tvg-name="国学" group-title="其他频道",国学
-http://192.168.2.1:8888/rtp/239.61.3.105:10160
-#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" group-title="其他频道",陶瓷
-http://192.168.2.1:8888/rtp/239.61.3.109:10184
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" group-title="其他频道",环球奇观
-http://192.168.2.1:8888/rtp/239.61.3.115：10220
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
-http://192.168.2.1:8888/rtp/239.61.2.64:8378
-#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其他频道",中国交通
-http://192.168.2.1:8888/rtp/239.61.3.104:10154
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 http://192.168.2.1:8888/rtp/239.61.3.102:10130
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影频道",爱上4K
