@@ -168,6 +168,8 @@ http://192.168.199.250:8888/rtp/239.61.3.21:9646
 http://192.168.199.250:8888/rtp/239.61.3.22:9652
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="其他频道",中学生
 http://192.168.199.250:8888/rtp/239.61.3.73:9956
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="其他频道",老故事
+http://192.168.199.250:8888/rtp/239.61.3.98:10106
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="其他频道",发现之旅
 http://192.168.199.250:8888/rtp/239.61.3.74:9962
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="其他频道",中华特产
@@ -190,8 +192,6 @@ http://192.168.199.250:8888/rtp/239.61.3.63:9896
 http://192.168.199.250:8888/rtp/239.61.3.71:9944
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="其他频道",书画频道
 http://192.168.199.250:8888/rtp/239.61.3.97:10100
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="其他频道",老故事
-http://192.168.199.250:8888/rtp/239.61.3.98:10106
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" group-title="其他频道",睛彩青少
 http://192.168.199.250:8888/rtp/239.61.3.111:10196
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="其他频道",睛彩竞技
