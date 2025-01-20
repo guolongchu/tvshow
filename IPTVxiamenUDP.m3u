@@ -24,10 +24,6 @@ http://192.168.199.250:8888/rtp/239.61.2.173:9026
 http://192.168.199.250:8888/rtp/239.61.2.151:8894
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="福建频道",厦门卫视
 http://192.168.199.250:8888/rtp/239.61.2.11:8060
-#EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门1.png" group-title="福建频道",厦门一套
-http://192.168.199.250:8888/rtp/239.61.2.213:9266
-#EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门2.png" group-title="福建频道",厦门二套
-rtsp://27.148.240.189/PLTV/88888888/224/3221227183/66927922.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEzoeUmrD-7J4AVftgD-jaw%7EPP035ej_ErOiuBQGbTcTbsVCzWtl0f3igiwZvLC_mQYwiDquPDWaY80F_LWFUEowQg9jTsIz3sONKUg3ohm7po1U__txexXnfmbnrZA_evE%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220602115923%2C2083064%2C120.41.22.107%2C20220602115923%2CUmai%3ACHAN%2F5884079%40BESTV.STA.SMG%2C208306420220602115923%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLRiivTVcYExNTF6BbM7YDEgaoLZj490JlNzPnnsydHWg8H-W4EDGPbzXJmGkg6sZWTWZD96p8xDmPkoLHieAiY_UmnQhaeQhZtQxPdPuyihW6T6dRGt9wS_BdHHFvuzDfHO2YYb0_j7I0iTKRp3FaCDZv1xp8vxL2Al9OgwWH5jK1QZANkEdmQffQooIB_-2Dd3VmbfIDXQVKHNYAAAA
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://192.168.199.250:8888/rtp/239.61.3.61:9884
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
@@ -159,7 +155,7 @@ http://192.168.199.250:8888/rtp/239.61.2.221:9314
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://192.168.199.250:8888/rtp/239.61.3.7:9560
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字频道",茶频道
-http://192.168.199.250:8888/rtp/239.61.3.59.9872
+http://192.168.199.250:8888/rtp/239.61.3.59:9872
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="数字频道",先锋乒羽
 http://192.168.199.250:8888/rtp/239.61.3.17:9622
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
@@ -170,8 +166,6 @@ http://192.168.199.250:8888/rtp/239.61.3.19:9634
 http://192.168.199.250:8888/rtp/239.61.3.21:9646
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="数字频道",武术世界
 http://192.168.199.250:8888/rtp/239.61.3.22:9652
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="其他频道",新动漫
-http://192.168.199.250:8888/rtp/239.61.3.18:9628
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="其他频道",中学生
 http://192.168.199.250:8888/rtp/239.61.3.73:9956
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="其他频道",发现之旅
@@ -197,7 +191,7 @@ http://192.168.199.250:8888/rtp/239.61.3.71:9944
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="其他频道",书画频道
 http://192.168.199.250:8888/rtp/239.61.3.97:10100
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="其他频道",老故事
-http://192.168.199.250:8888/rtp/2239.61.3.98:10106
+http://192.168.199.250:8888/rtp/239.61.3.98:10106
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" group-title="其他频道",睛彩青少
 http://192.168.199.250:8888/rtp/239.61.3.111:10196
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="其他频道",睛彩竞技
@@ -206,10 +200,6 @@ http://192.168.199.250:8888/rtp/239.61.3.112:10202
 http://192.168.199.250:8888/rtp/239.61.3.113:10208
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="其他频道",睛彩广场舞
 http://192.168.199.250:8888/rtp/239.61.3.114:10214
-#EXTINF:-1 tvg-id="中华美食" tvg-name="中华美食" group-title="其他频道",中华美食
-http://192.168.199.250:8888/rtp/239.61.3.107:10172
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" group-title="其他频道",环球奇观
-http://192.168.199.250:8888/rtp/239.61.3.115:10220
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
 http://192.168.199.250:8888/rtp/239.61.2.64:8378
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其他频道",中国交通
@@ -227,9 +217,9 @@ http://192.168.199.250:8888/rtp/239.61.2.209:9242
 #EXTINF:-1 tvg-id="南平新闻" tvg-name="南平新闻" group-title="地方频道",南平新闻
 http://192.168.199.250:8888/rtp/239.61.2.207:9230
 #EXTINF:-1 tvg-id="龙岩新闻" tvg-name="龙岩新闻" group-title="地方频道",龙岩新闻
-http://192.168.199.250:8888/rtp/239.61.2.210:1025
+http://192.168.199.250:8888/rtp/239.61.2.210:9248
 #EXTINF:-1 tvg-id="宁德新闻" tvg-name="宁德新闻" group-title="地方频道",宁德新闻
-http://192.168.199.250:8888/rtp/239.61.5.96:9248
+http://192.168.199.250:8888/rtp/239.61.2.211:9254
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 http://192.168.199.250:8888/rtp/239.61.3.102:10130
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影频道",爱上4K
