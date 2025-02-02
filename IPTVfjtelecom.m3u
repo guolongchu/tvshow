@@ -26,8 +26,6 @@ http://27.148.240.181/PLTV/88888888/224/3221226748/1.m3u8
 http://27.148.240.181/PLTV/88888888/224/3221226744/1.m3u8
 #EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门1.png" group-title="福建频道",厦门一套
 http://192.168.2.1:8888/rtp/239.61.2.213:9266
-#EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门2.png" group-title="福建频道",厦门二套
-rtsp://27.148.240.189/PLTV/88888888/224/3221227183/66927922.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEzoeUmrD-7J4AVftgD-jaw%7EPP035ej_ErOiuBQGbTcTbsVCzWtl0f3igiwZvLC_mQYwiDquPDWaY80F_LWFUEowQg9jTsIz3sONKUg3ohm7po1U__txexXnfmbnrZA_evE%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220602115923%2C2083064%2C120.41.22.107%2C20220602115923%2CUmai%3ACHAN%2F5884079%40BESTV.STA.SMG%2C208306420220602115923%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLRiivTVcYExNTF6BbM7YDEgaoLZj490JlNzPnnsydHWg8H-W4EDGPbzXJmGkg6sZWTWZD96p8xDmPkoLHieAiY_UmnQhaeQhZtQxPdPuyihW6T6dRGt9wS_BdHHFvuzDfHO2YYb0_j7I0iTKRp3FaCDZv1xp8vxL2Al9OgwWH5jK1QZANkEdmQffQooIB_-2Dd3VmbfIDXQVKHNYAAAA
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://27.148.240.181/PLTV/88888888/224/3221226773/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
