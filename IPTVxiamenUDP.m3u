@@ -208,8 +208,10 @@ http://192.168.2.1:8888/rtp/239.61.2.64:8378
 http://192.168.2.1:8888/rtp/239.61.3.104:10154
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",CCTV4K
 http://192.168.2.1:8888/rtp/239.61.3.102:10130
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="4K频道",爱上4K
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="4K频道",北京卫视
 http://192.168.2.1:8888/rtp/239.61.4.194:1025
+#EXTINF:-1 tvg-id="4K超清IPTV" tvg-name="4K超清IPTV" tvg-logo="https://live.fanmingming.com/tv/4K超清IPTV.png" group-title="4K频道",4K超清IPTV
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
