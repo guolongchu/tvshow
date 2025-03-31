@@ -222,3 +222,11 @@ http://192.168.2.1:8888/rtp/239.61.3.43:9776
 http://192.168.2.1:8888/rtp/239.61.3.44:9782
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://192.168.2.1:8888/rtp/239.61.3.45:9788
+#EXTINF:-1 tvg-id="HBO家庭" tvg-name="HBO家庭" tvg-logo="https://live.fanmingming.com/tv/HBO家庭.png" group-title="国外频道",HBO家庭
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="国外频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="国外频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="国外频道",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
