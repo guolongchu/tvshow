@@ -82,8 +82,6 @@ rtsp://220.249.186.147:554/PLTV/88888909/224/3221225696/100001000000000600000000
 rtsp://220.249.186.144:554/PLTV/88888909/224/3221225689/10000100000000060000000000390304_0.smil
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 rtsp://220.249.186.148:554/PLTV/88888909/224/3221225686/10000100000000060000000000390277_0.smil
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
-rtsp://220.249.186.136:554/PLTV/88888909/224/3221225708/10000100000000060000000000400919_0.smil
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 rtsp://220.249.186.146:554/PLTV/88888909/224/3221225981/10000100000000060000000004308954_0.smil
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
@@ -150,6 +148,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 rtsp://220.249.186.147:554/PLTV/88888909/224/3221225989/390009032.smil
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字频道",卡酷动画
 rtsp://220.249.186.147:554/PLTV/88888909/224/3221225710/10000100000000060000000000400947_0.smil
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+rtsp://220.249.186.136:554/PLTV/88888909/224/3221225708/10000100000000060000000000400919_0.smil
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 rtsp://220.249.186.148:554/PLTV/88888909/224/3221225682/10000100000000060000000000390143_0.smil
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
