@@ -166,12 +166,6 @@ rtsp://220.249.186.148:554/PLTV/88888909/224/3221225739/100001000000000600000000
 rtsp://220.249.186.148:554/PLTV/88888909/224/3221225742/10000100000000060000000000402494_0.smil
 #EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-name="IPTV谍战剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV谍战剧场.png" group-title="IPTV",IPTV谍战剧场
 rtsp://220.249.186.148:554/PLTV/88888909/224/3221225728/10000100000000060000000000401568_0.smil
-#EXTINF:-1 tvg-id="IPTV相声小品" tvg-name="IPTV相声小品" tvg-logo="https://live.fanmingming.com/tv/IPTV相声小品.png" group-title="IPTV",IPTV相声小品
-rtsp://220.249.186.148:554/PLTV/88888909/224/3221225729/10000100000000060000000000401590_0.smil
-#EXTINF:-1 tvg-id="IPTV野外" tvg-name="IPTV野外" tvg-logo="https://live.fanmingming.com/tv/IPTV野外.png" group-title="IPTV",IPTV野外
-rtsp://220.249.186.148:554/PLTV/88888909/224/3221225730/10000100000000060000000000401591_0.smil
-#EXTINF:-1 tvg-id="IPTV法治" tvg-name="IPTV法治" tvg-logo="https://live.fanmingming.com/tv/IPTV法治.png" group-title="IPTV",IPTV法治
-rtsp://220.249.186.148:554/PLTV/88888909/224/3221225731/10000100000000060000000000401625_0.smil
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
 rtsp://220.249.186.133:554/PLTV/88888909/224/3221225805/10000100000000060000000001551139_0.smil
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="数字频道",中国交通
