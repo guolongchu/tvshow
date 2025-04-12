@@ -192,3 +192,31 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",翡翠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台频道",无线新闻台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="港澳台频道",东森新闻
+http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="港澳台频道",三立新闻
+http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="港澳台频道",中天新闻
+http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="港澳台频道",寰宇新闻
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="港澳台频道",中视新闻
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港澳台频道",中视
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="港澳台频道",台视新闻
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳台频道",台视
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港澳台频道",华视
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="港澳台频道",纬来体育
+http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="DW News" tvg-name="DW News" tvg-logo="https://live.fanmingming.com/tv/DW News.png" group-title="国外频道",DW News
+http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://live.fanmingming.com/tv/NHK World.png" group-title="国外频道",NHK World
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
