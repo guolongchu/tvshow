@@ -196,10 +196,16 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台4k" tvg-name="翡翠台4k" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",翡翠台4k
 http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠综合" tvg-name="翡翠综合" tvg-logo="https://live.fanmingming.com/tv/翡翠综合.png" group-title="港澳台频道",翡翠综合
+http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠海外" tvg-name="翡翠海外" tvg-logo="https://live.fanmingming.com/tv/翡翠海外.png" group-title="港澳台频道",翡翠海外
+http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台频道",无线新闻台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台频道",明珠台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠海外" tvg-name="明珠海外" tvg-logo="https://live.fanmingming.com/tv/明珠海外.png" group-title="港澳台频道",明珠海外
+http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB+" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="港澳台频道",TVB Plus
 http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="港澳台频道",中视
@@ -218,9 +224,3 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 #EXTINF:-1 tvg-id="环宇新闻" tvg-name="环宇新闻" tvg-logo="https://live.fanmingming.com/tv/环宇新闻.png" group-title="港澳台频道",环宇新闻
 http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠综合" tvg-name="翡翠综合" tvg-logo="https://live.fanmingming.com/tv/翡翠综合.png" group-title="港澳台频道",翡翠综合
-http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠海外" tvg-name="翡翠海外" tvg-logo="https://live.fanmingming.com/tv/翡翠海外.png" group-title="港澳台频道",翡翠海外
-http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠海外" tvg-name="明珠海外" tvg-logo="https://live.fanmingming.com/tv/明珠海外.png" group-title="港澳台频道",明珠海外
-http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
