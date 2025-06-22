@@ -63,7 +63,7 @@ http://27.148.240.181/PLTV/88888888/224/3221227055/1.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育频道",CETV1
 http://27.148.240.181/PLTV/88888888/224/3221226912/1.m3u8
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育频道",CETV2
-http://27.148.240.138/PLTV/88888888/224/3221226840/1.m3u8
+http://27.148.240.181/PLTV/88888888/224/3221226840/1.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育频道",CETV4
 http://27.148.240.181/PLTV/88888888/224/3221227075/1.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="福建频道",东南卫视
