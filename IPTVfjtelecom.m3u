@@ -150,6 +150,8 @@ http://27.148.240.181/PLTV/88888888/224/3221226950/1.m3u8
 http://27.148.240.181/PLTV/88888888/224/3221226861/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 http://27.148.240.181/PLTV/88888888/224/3221227333/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视4K
+http://27.148.240.181/PLTV/88888888/224/3221227310/1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
 http://27.148.240.181/PLTV/88888888/224/3221226822/1.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视频道",CGTN纪录
