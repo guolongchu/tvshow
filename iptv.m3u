@@ -200,8 +200,6 @@ http://vthanh.utako.moe/TV_Asahi/index.m3u8
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://live.fanmingming.com/tv/TBS.png" group-title="国外频道",TBS
 http://vthanh.utako.moe/TBS/index.m3u8
-#EXTINF:-1 tvg-id="HBO家庭" tvg-name="HBO家庭" tvg-logo="https://live.fanmingming.com/tv/HBO家庭.png" group-title="国外频道",HBO家庭
-http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="国外频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="国外频道",民视新闻
