@@ -182,6 +182,8 @@ http://27.148.240.181/PLTV/88888888/224/3221227333/index.m3u8?accountinfo=%7E%7E
 http://27.148.240.185/PLTV/88888888/224/3221227404/1.m3u8
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="4k频道",深圳卫视4K
 http://27.148.240.185/PLTV/88888888/224/3221227408/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="4k频道",北京卫视4K
+http://27.148.240.185/PLTV/88888888/224/3221227310/1.m3u8
 #EXTINF:-1 tvg-id="福州新闻" tvg-name="福州新闻" tvg-logo="https://live.fanmingming.com/tv/福州新闻.png" group-title="福建频道",福州新闻
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" tvg-logo="https://live.fanmingming.com/tv/泉州新闻.png" group-title="福建频道",泉州新闻
