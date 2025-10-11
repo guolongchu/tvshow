@@ -148,6 +148,8 @@ http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="数字频道",第一财经
 http://27.148.240.181/PLTV/88888888/224/3221227341/1.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",北京纪实科教
+rtsp://27.148.240.185/PLTV/88888888/224/3221227379/87504094.smil?accountinfo=%7E%7EV2.0%7EqOevFtjGzf_SkSq7Bk330A%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20240807231026%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveT%3AXTV59904326%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字频道",卡酷动画
 http://27.148.240.181/PLTV/88888888/224/3221226916/1.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
@@ -196,6 +198,3 @@ http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="国外频道",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-
-
-
