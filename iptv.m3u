@@ -188,18 +188,6 @@ http://27.148.240.185/PLTV/88888888/224/3221227310/1.m3u8
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="泉州新闻" tvg-name="泉州新闻" tvg-logo="https://live.fanmingming.com/tv/泉州新闻.png" group-title="福建频道",泉州新闻
 rtmp://live.qztv.cn/live/news
-#EXTINF:-1 tvg-id="NHK综合" tvg-name="NHK综合" tvg-logo="https://live.fanmingming.com/tv/NHK综合.png" group-title="国外频道",NHK综合
-http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-id="NHK教育" tvg-name="NHK教育" tvg-logo="https://live.fanmingming.com/tv/NHK教育.png" group-title="国外频道",NHK教育
-http://vthanh.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 tvg-id="NHK WORLD" tvg-name="NHK WORLD" tvg-logo="https://live.fanmingming.com/tv/NHK WORLD.png" group-title="国外频道",NHK WORLD
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 tvg-id="朝日電視台" tvg-name="朝日電視台" tvg-logo="https://live.fanmingming.com/tv/朝日電視台.png" group-title="国外频道",朝日電視台
-http://vthanh.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 tvg-id="日本電視台" tvg-name="日本電視台" tvg-logo="https://live.fanmingming.com/tv/日本電視台.png" group-title="国外频道",日本電視台
-http://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://live.fanmingming.com/tv/TBS.png" group-title="国外频道",TBS
-http://vthanh.utako.moe/TBS/index.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="国外频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="国外频道",民视新闻
