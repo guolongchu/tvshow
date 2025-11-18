@@ -201,17 +201,29 @@ http://183.251.61.207/PLTV/88888888/224/3221227220/index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://183.251.61.207/PLTV/88888888/224/3221227103/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4k频道",CCTV4K
-http://183.251.61.207/PLTV/88888888/224/3221227510/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227488/136427084.smil
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4k频道",CCTV16-4K
 http://183.251.61.207/PLTV/88888888/224/3221227162/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4k频道",纯享4K
 http://183.251.61.207/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="4k频道",广东卫视4K
-http://183.251.61.207/PLTV/88888888/224/3221227391/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227500/141320607.smil
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="4k频道",深圳卫视4K
-http://183.251.61.207/PLTV/88888888/224/3221227489/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227485/141320617.smil
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="4k频道",北京卫视4K
-http://183.251.61.207/PLTV/88888888/224/3221227514/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227476/135487844.smil
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="4k频道",东方卫视4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227512/147396182.smil
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="4k频道",江苏卫视4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227526/147396617.smil
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="4k频道",浙江卫视4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227505/147396573.smil
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="4k频道",山东卫视4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227516/147396708.smil
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="4k频道",湖南卫视4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227530/147396820.smil
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="4k频道",四川卫视4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227407/147396849.smil
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
