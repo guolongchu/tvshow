@@ -230,6 +230,12 @@ http://192.168.2.1:8888/rtp/239.61.2.184:9092
 http://192.168.2.1:8888/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://192.168.2.1:8888/rtp/239.61.3.16:9616
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226157/index.m3u8
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="数字频道",第一财经
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226134/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
@@ -238,3 +244,15 @@ http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225771/index.m3u8
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字频道",生活时尚
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字频道",金色学堂
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225748/index.m3u8
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字频道",游戏风云
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226161/index.m3u8
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字频道",法治天地
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225994/index.m3u8
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="数字频道",东方影视
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-id="咪视界4k" tvg-name="咪视界4k" tvg-logo="https://live.fanmingming.com/tv/咪视界4k.png" group-title="数字频道",咪视界4k
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226080/index.m3u8
