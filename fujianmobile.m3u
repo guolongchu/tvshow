@@ -233,9 +233,9 @@ http://192.168.2.1:8888/rtp/239.61.3.16:9616
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="数字频道",第一财经
-http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225737/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000027146/1.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="数字频道",东方财经
-http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226134/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/1.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字频道",都市剧场
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
