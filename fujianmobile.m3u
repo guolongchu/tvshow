@@ -230,4 +230,3 @@ http://192.168.2.1:8888/rtp/239.61.2.184:9092
 http://192.168.2.1:8888/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://192.168.2.1:8888/rtp/239.61.3.16:9616
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字频道",乐游
