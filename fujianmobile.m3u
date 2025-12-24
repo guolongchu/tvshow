@@ -121,19 +121,19 @@ http://183.251.61.207/PLTV/88888888/224/3221227262/index.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://183.251.61.207/PLTV/88888888/224/3221227119/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://183.251.61.207/PLTV/88888888/224/3221227258/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227416/96311815.smil
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://183.251.61.207/PLTV/88888888/224/3221227221/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://183.251.61.207/PLTV/88888888/224/3221227244/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://183.251.61.207/PLTV/88888888/224/3221227254/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227403/146210417.smil
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-rtsp://183.252.176.54/PLTV/88888888/224/3221226808/48629336.smil
+rtsp://112.50.233.148/PLTV/88888888/224/3221227395/143556075.smil
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://183.251.61.207/PLTV/88888888/224/3221227248/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227493/143556096.smil
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-rtsp://183.252.176.54/PLTV/88888888/224/3221226804/48628997.smil
+rtsp://112.50.233.148/PLTV/88888888/224/3221227399/143556017.smil
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="数字频道",纪实科教
 http://183.251.61.207/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
