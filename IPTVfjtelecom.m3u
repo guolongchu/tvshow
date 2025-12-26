@@ -179,11 +179,23 @@ http://27.148.240.185/PLTV/88888888/224/3221226892/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",CCTV4K
 http://27.148.240.181/PLTV/88888888/224/3221227333/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="4K频道",北京卫视4K
-http://27.148.240.181/PLTV/88888888/224/3221227310/1.m3u8
+http://27.148.240.181/PLTV/88888888/224/3221227310/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="4K频道",广东卫视4K
-http://27.148.240.185/PLTV/88888888/224/3221227404/1.m3u8
+http://27.148.240.181/PLTV/88888888/224/3221227404/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="4K频道",深圳卫视4K
-http://27.148.240.185/PLTV/88888888/224/3221227408/1.m3u8
+http://27.148.240.181/PLTV/88888888/224/3221227408/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="4K频道",东方卫视4K
+http://27.148.240.181/PLTV/88888888/224/3221227389/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="4K频道",江苏卫视4K
+http://27.148.240.181/PLTV/88888888/224/3221227435/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="4K频道",浙江卫视4K
+http://27.148.240.181/PLTV/88888888/224/3221227322/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="4K频道",山东卫视4K
+http://27.148.240.181/PLTV/88888888/224/3221227439/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="4K频道",湖南卫视4K
+http://27.148.240.181/PLTV/88888888/224/3221227424/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="4K频道",四川卫视4K
+http://27.148.240.181/PLTV/88888888/224/3221227428/1.m3u8?accountinfo=~~V2.0~Qq7sURvlvndPmK-0y-D_kg~taBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0~2,END&GuardEncType=2
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
 http://27.148.240.181/PLTV/88888888/224/3221226822/1.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视频道",CGTN纪录
@@ -200,5 +212,6 @@ http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="国外频道",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+
 
 
