@@ -165,13 +165,13 @@ http://183.251.61.207/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
 http://183.251.61.207/PLTV/88888888/224/3221227210/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技频道" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技频道
-http://183.251.61.207/PLTV/88888888/224/3221227047/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227450/119890837.smil
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球频道" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球频道
-http://183.251.61.207/PLTV/88888888/224/3221227158/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227299/119891035.smil
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞频道" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞频道
-http://183.251.61.207/PLTV/88888888/224/3221227343/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227458/120578017.smil
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少频道" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字频道",睛彩青少频道
-http://183.251.61.207/PLTV/88888888/224/3221227314/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227454/119890984.smil
 #EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.com/tv/IPTV炫舞未来.png" group-title="IPTV",炫舞未来
 http://183.251.61.207/PLTV/88888888/224/3221227319/index.m3u8
 #EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/IPTV潮妈辣婆.png" group-title="IPTV",潮妈辣婆
