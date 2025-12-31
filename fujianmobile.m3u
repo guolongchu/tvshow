@@ -136,16 +136,18 @@ rtsp://112.50.233.148/PLTV/88888888/224/3221227493/143556096.smil
 rtsp://112.50.233.148/PLTV/88888888/224/3221227399/143556017.smil
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="数字频道",纪实科教
 http://183.251.61.207/PLTV/88888888/224/3221225944/index.m3u8
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="数字频道",卡酷动画
+rtsp://112.50.233.148/PLTV/88888888/224/3221227418/96311794.smil
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://183.251.61.207/PLTV/88888888/224/3221226937/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://183.251.61.207/PLTV/88888888/224/3221227018/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227263/96311896.smil
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="数字频道",先锋乒羽
 http://183.251.61.207/PLTV/88888888/224/3221226851/index.m3u8
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶频道.png" group-title="数字频道",茶频道
 http://183.251.61.207/PLTV/88888888/224/3221226859/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-http://183.251.61.207/PLTV/88888888/224/3221227230/index.m3u8
+rtsp://112.50.233.148/PLTV/88888888/224/3221227433/96312806.smil
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="数字频道",优优宝贝
 http://183.251.61.207/PLTV/88888888/224/3221227367/index.m3u8
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
