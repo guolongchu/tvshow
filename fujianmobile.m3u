@@ -23,6 +23,12 @@ rtsp://112.50.233.148/PLTV/88888888/224/3221226776/47876618.smil
 rtsp://112.50.233.148/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="福建频道",厦门卫视
 rtsp://112.50.233.148/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
+#EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="https://live.fanmingming.com/tv/厦门1.png" group-title="福建频道",厦门一套
+http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226814/index.m3u8
+#EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门二套" tvg-logo="https://live.fanmingming.com/tv/厦门2.png" group-title="福建频道",厦门二套
+http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226777/index.m3u8
+#EXTINF:-1 tvg-id="厦门三套" tvg-name="厦门三套" tvg-logo="https://live.fanmingming.com/tv/厦门3.png" group-title="福建频道",厦门三套
+http://ott.fj.chinamobile.com/TVOD/88888888/224/3221226760/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://112.50.233.148/PLTV/88888888/224/3221226908/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
