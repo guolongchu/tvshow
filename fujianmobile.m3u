@@ -164,7 +164,7 @@ http://112.50.233.148/PLTV/88888888/224/3221227303/index.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://112.50.233.148/PLTV/88888888/224/3221227448/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
-rtsp://112.50.233.148/PLTV/88888888/224/3221226073/10000100000000060000000002296914_0.smil
+http://183.251.61.207/PLTV/88888888/224/3221227210/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技频道" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技频道
 rtsp://112.50.233.148/PLTV/88888888/224/3221227450/119890837.smil
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球频道" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球频道
