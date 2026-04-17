@@ -144,9 +144,9 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="数字频道",卡酷动画
 rtsp://112.50.233.148/PLTV/88888888/224/3221227418/96311794.smil
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227532/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-rtsp://112.50.233.148/PLTV/88888888/224/3221227263/96311896.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
@@ -159,8 +159,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227474/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227367/index.m3u8
 #EXTINF:-1 tvg-id="中华特产" tvg-name="足球频道" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="数字频道",足球频道
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="数字频道",环球奇观
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227490/index.m3u8
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="数字频道",生态环境
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227494/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
@@ -169,6 +167,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227303/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227448/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
 http://ott.fj.chinamobile.com//PLTV/88888888/224/3221227210/index.m3u8
+#EXTINF:-1 tvg-id="睛彩足球" tvg-name="睛彩足球频道" tvg-logo="https://live.fanmingming.com/tv/睛彩足球.png" group-title="数字频道",睛彩足球频道
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技频道" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技频道
 rtsp://112.50.233.148/PLTV/88888888/224/3221227450/119890837.smil
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球频道" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球频道
@@ -185,12 +185,26 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227311/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227466/index.m3u8
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/IPTV爱情喜剧.png" group-title="IPTV",爱情喜剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227462/index.m3u8
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/IPTV精品体育.png" group-title="IPTV",精品体育
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227470/index.m3u8
-#EXTINF:-1 tvg-id="精品记录" tvg-name="烽烟剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV烽烟剧场.png" group-title="IPTV",烽烟剧场
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/IPTV动作电影.png" group-title="IPTV",动作电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 tvg-id="烽烟剧场" tvg-name="烽烟剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV烽烟剧场.png" group-title="IPTV",烽烟剧场
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227461/index.m3u8
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV古装剧场.png" group-title="IPTV",古装剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227307/index.m3u8
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV军旅剧场.png" group-title="IPTV",军旅剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227465/index.m3u8
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV家庭剧场.png" group-title="IPTV",家庭剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227457/index.m3u8
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/IPTV精品大剧.png" group-title="IPTV",精品大剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227315/index.m3u8
+#EXTINF:-1 tvg-id="谍战大剧" tvg-name="谍战大剧" tvg-logo="https://live.fanmingming.com/tv/IPTV谍战大剧.png" group-title="IPTV",谍战大剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/index.m3u8
 #EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://live.fanmingming.com/tv/IPTV中国功夫.png" group-title="IPTV",中国功夫
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227473/index.m3u8
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/IPTV精品体育.png" group-title="IPTV",精品体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227470/index.m3u8
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.com/tv/IPTV精品萌宠.png" group-title="IPTV",精品萌宠
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227183/index.m3u8
 #EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/IPTV军事评论.png" group-title="IPTV",军事评论
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227452/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
@@ -206,11 +220,9 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227103/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4k频道",CCTV4K
-rtsp://ott.fj.chinamobile.com/PLTV/88888888/224/3221227488/136427084.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4k频道",CCTV16-4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4k频道",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="4k频道",广东卫视4K
 rtsp://112.50.233.148/PLTV/88888888/224/3221227500/141320607.smil
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="4k频道",深圳卫视4K
