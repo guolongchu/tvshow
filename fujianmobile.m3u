@@ -2,9 +2,9 @@
 #EXT-X-APTV-TYPE local
 
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建频道",福建综合
-rtsp://112.50.233.148/PLTV/88888888/224/3221226826/47882539.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建频道",福建新闻
-rtsp://112.50.233.148/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 #EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建频道",福建公共
 rtsp://112.50.233.148/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建频道",福建电视剧
@@ -14,13 +14,13 @@ rtsp://112.50.233.148/PLTV/88888888/224/3221226117/10000100000000060000000002358
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建频道",福建旅游
 rtsp://112.50.233.148/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
 #EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建频道",福建文体
-rtsp://112.50.233.148/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建频道",福建少儿
-rtsp://112.50.233.148/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建频道",福建教育
-rtsp://112.50.233.148/PLTV/88888888/224/3221226776/47876618.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="福建频道",海峡卫视
-rtsp://112.50.233.148/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="福建频道",厦门卫视
 rtsp://112.50.233.148/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
 #EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="https://live.fanmingming.com/tv/厦门1.png" group-title="福建频道",厦门一套
@@ -150,7 +150,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
-rtsp://112.50.233.148/PLTV/88888888/224/3221227433/96312806.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227230/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="数字频道",优漫卡通
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
@@ -170,13 +170,13 @@ http://ott.fj.chinamobile.com//PLTV/88888888/224/3221227210/index.m3u8
 #EXTINF:-1 tvg-id="睛彩足球" tvg-name="睛彩足球频道" tvg-logo="https://live.fanmingming.com/tv/睛彩足球.png" group-title="数字频道",睛彩足球频道
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技频道" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道",睛彩竞技频道
-rtsp://112.50.233.148/PLTV/88888888/224/3221227450/119890837.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球频道" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="数字频道",睛彩篮球频道
-rtsp://112.50.233.148/PLTV/88888888/224/3221227299/119891035.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞频道" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="数字频道",睛彩广场舞频道
-rtsp://112.50.233.148/PLTV/88888888/224/3221227458/120578017.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227343/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少频道" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字频道",睛彩青少频道
-rtsp://112.50.233.148/PLTV/88888888/224/3221227454/119890984.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 #EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.com/tv/IPTV炫舞未来.png" group-title="IPTV",炫舞未来
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227319/index.m3u8
 #EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/IPTV潮妈辣婆.png" group-title="IPTV",潮妈辣婆
